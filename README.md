@@ -5,7 +5,7 @@ Mechanical Relay
 This module can be purchased on [Xinabox CC](https://xinabox.cc/products/OC10/).
 
 ## About the OC10
-This ☒CHIP forms part of the output modules and is equipped with a high speed IO expander chip. The OC10 module provides is able to switch loads between 120-250V AC/DC.	
+This ☒CHIP forms part of the output modules and is equipped with a high speed IO expander chip. The OC10 module provides is able to switch loads between 120-250 VAC and 0-30 VDC.	
 
 The OC10 xCHIP is housed in an compact 2U×2U chip with three connection ports.
 
