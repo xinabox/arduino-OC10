@@ -1,5 +1,5 @@
 # xChip OC10
-<img src="extras/OC10_B.JPG" width="35%" height="auto" align="right">
+<img src="extras/OC10_B.PNG" width="35%" height="auto" align="right">
 Mechanical Relay
 
 This module can be purchased on [Xinabox CC](https://xinabox.cc/products/OC10/).
